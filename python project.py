@@ -1,5 +1,4 @@
 from random import sample
-/////////
 Questions = ['Russia has a larger surface area than Pluto.','There are as many stars in space than there are grains of sand on every beach in the world.',
                  'For every human on Earth there are 1.6 million ants.','On Jupiter and Saturn it rains diamonds.', 'Scotland’s national animal is the phoenix.',
                   'A banana is a berry.',
